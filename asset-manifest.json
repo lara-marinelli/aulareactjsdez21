@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.726c7b5e.chunk.css",
-    "main.js": "/portfolio-react/static/js/main.3617e61f.chunk.js",
-    "main.js.map": "/portfolio-react/static/js/main.3617e61f.chunk.js.map",
+    "main.js": "/portfolio-react/static/js/main.dfcf222e.chunk.js",
+    "main.js.map": "/portfolio-react/static/js/main.dfcf222e.chunk.js.map",
     "runtime-main.js": "/portfolio-react/static/js/runtime-main.f61429b0.js",
     "runtime-main.js.map": "/portfolio-react/static/js/runtime-main.f61429b0.js.map",
     "static/js/2.d136255b.chunk.js": "/portfolio-react/static/js/2.d136255b.chunk.js",
@@ -13,12 +13,13 @@
     "static/css/main.726c7b5e.chunk.css.map": "/portfolio-react/static/css/main.726c7b5e.chunk.css.map",
     "static/js/2.d136255b.chunk.js.LICENSE.txt": "/portfolio-react/static/js/2.d136255b.chunk.js.LICENSE.txt",
     "static/media/main.css": "/portfolio-react/static/media/poppins-semibold-webfont.efc1e4ee.eot",
-    "static/media/logo.6ce24c58.svg": "/portfolio-react/static/media/logo.6ce24c58.svg"
+    "static/media/logo.6ce24c58.svg": "/portfolio-react/static/media/logo.6ce24c58.svg",
+    "static/media/profile-pic.fa82bb8c.png": "/portfolio-react/static/media/profile-pic.fa82bb8c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f61429b0.js",
     "static/js/2.d136255b.chunk.js",
     "static/css/main.726c7b5e.chunk.css",
-    "static/js/main.3617e61f.chunk.js"
+    "static/js/main.dfcf222e.chunk.js"
   ]
 }
