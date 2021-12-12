@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import '../css/main.css';
 import '../css/vendor.css';
 import '../css/base.css';
+import profilePhoto from '../images/profile-pic.png';
 
 export default class About extends React.Component {
     render() {
@@ -14,13 +15,11 @@ export default class About extends React.Component {
                     <div className="col-twelve">
 
                         <h5>About</h5>
-                        <h1>Let me introduce myself.</h1>
-
                         <div className="intro-info">
 
-                            <img src="images/profile-pic.jpg" alt="Profile Picture"/>
+                            <img src={profilePhoto} alt="Profile Picture"/>
 
-                            <p className ="lead">Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.</p>
+                            <p className ="lead">Lara Marinelli – Machine Learning Engineer/technology instructor. Graduated in Information Systems (USP) and Master's student in Artificial Intelligence (USP), she has already worked with consulting, back end development, full stack development and software engineering before moving to Machine Learning Engineering.</p>
                         </div>
 
                     </div>
@@ -29,21 +28,21 @@ export default class About extends React.Component {
 
                     <div className="col-six tab-full">
 
-                        <h3>Profile</h3>
+                        <h3>About her Work</h3>
                         <p>Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.</p>
 
                         <ul className="info-list">
                             <li>
-                                <strong>Fullname:</strong>
-                                <span>Juan Dela Cruz</span>
+                                <strong></strong>
+                                <span></span>
                             </li>
                             <li>
-                                <strong>Birth Date:</strong>
-                                <span>September 28, 1987</span>
+                                <strong></strong>
+                                <span></span>
                             </li>
                             <li>
-                                <strong>Job:</strong>
-                                <span>Freelancer, Frontend Developer</span>
+                                <strong></strong>
+                                <span></span>
                             </li>
                             <li>
                                 <strong>Website:</strong>
@@ -93,7 +92,7 @@ export default class About extends React.Component {
 
                 <div className="row button-section">
                     <div className="col-twelve">
-                        <a href="#contact" title="Hire Me" className="button stroke smoothscroll">Hire Me</a>
+                        <a href="#contact" title="Contact" className="button stroke smoothscroll">Contact</a>
                         <a href="#" title="Download CV" className="button button-primary">Download CV</a>
                     </div>
                 </div>
